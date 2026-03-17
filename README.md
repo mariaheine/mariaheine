@@ -19,7 +19,7 @@ dung beetle are my fav, I used to love watching ants cutting and carrying
 sugar cubes I gave them am I oversharing.
 
 - 🧭 Sanctuary
-- 💖 C#, Bash, Python, 🐧, Blender, 3D Worlds, HTML's Web Components
+- 💖 C#, Bash, Python, 🐧, Blender, 3D Worlds, HTML's Web Components, Cats
 - 🛠️ TypeScript
 - 🌱 SuperCollider, C++ (i'd love to)
 ```
