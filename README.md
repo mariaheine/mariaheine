@@ -9,7 +9,7 @@
                               .888888888b.  dP'  b                               88            
                                             Y.  ,P                               88            
                                              `""'                               .8P            
-I'm Maria Aurelia Heine, I like weird.
+I'm Maria Heine, I like weird.
 
 Coding is my fav thing ever since I got an HTML book on my 11th bday
 and the caps lock bold blood red `HELL WORLD` exploded into my face.
