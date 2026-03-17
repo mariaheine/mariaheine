@@ -9,13 +9,23 @@
                               .888888888b.  dP'  b                               88            
                                             Y.  ,P                               88            
                                              `""'                               .8P            
-I'm Maria Aurelia Heine
-I like weird, coding is my fav thing & smashin 🐛
-(but not like for real, like I love bugs, bumble bees, dung beetle are my fav)
-💖 C#, Bash, Python, 🐧, Blender, 3D Worlds
-🛠️ TypeScript
-🌱 Super Collider, C++ (i'd love to)
+I'm Maria Aurelia Heine, I like weird.
+
+Coding is my fav thing ever since I got an HTML book on my 11th bday
+and the caps lock bold blood red `HELL WORLD` exploded into my face.
+
+Professional 🐛 smasher (but not like for real, I love bugs, bumble bees,
+dung beetle are my fav, I used to love watching ants cutting and carrying
+sugar cubes I gave them am I oversharing.
+
+- 🧭 Sanctuary
+- 💖 C#, Bash, Python, 🐧, Blender, 3D Worlds, HTML's Web Components
+- 🛠️ TypeScript
+- 🌱 SuperCollider, C++ (i'd love to)
 ```
+
+<!--
+I'm chaotic by spirit yet my code is thoughtful, neat n' clean 🧼💅🏻-->
 <!--
 **mariaheine/mariaheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
