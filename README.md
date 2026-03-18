@@ -14,10 +14,6 @@ I'm Maria Heine, I like weird.
 Coding is my fav thing ever since I got an HTML book on my 11th bday
 and the caps lock bold blood red `HELL WORLD` exploded into my face.
 
-Professional 🐛 smasher (but not like for real, I love bugs, bumble bees,
-dung beetle are my fav, I used to love watching ants cutting and carrying
-sugar cubes I gave them am I oversharing.
-
 - 🧭 Sanctuary
 - 💖 C#, Bash, Python, 🐧, Blender, 3D Worlds, HTML's Web Components, Cats
 - 🛠️ TypeScript
@@ -25,7 +21,12 @@ sugar cubes I gave them am I oversharing.
 ```
 
 <!--
-I'm chaotic by spirit yet my code is thoughtful, neat n' clean 🧼💅🏻-->
+I'm chaotic by spirit yet my code is thoughtful, neat n' clean 🧼💅🏻
+
+Professional 🐛 smasher (but not like for real, I love bugs, bumble bees,
+dung beetle are my fav, I used to love watching ants cutting and carrying
+sugar cubes I gave them am I oversharing.
+-->
 <!--
 **mariaheine/mariaheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
