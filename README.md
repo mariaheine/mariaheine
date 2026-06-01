@@ -9,35 +9,17 @@
                               .888888888b.  dP'  b                               88            
                                             Y.  ,P                               88            
                                              `""'                               .8P            
-I'm Maria Heine, I like weird.
-
-Coding is my fav thing ever since I got an HTML book on my 11th bday
-and the caps lock bold blood red `HELL WORLD` exploded into my face.
-
-- 🧭 Sanctuary
-- 💖 C#, Bash, Python, 🐧, Blender, 3D Worlds, HTML's Web Components, Cats
-- 🛠️ TypeScript
-- 🌱 SuperCollider, C++ (i'd love to)
 ```
+## Hi, I'm Maria 📜✨👋
 
-<!--
-I'm chaotic by spirit yet my code is thoughtful, neat n' clean 🧼💅🏻
+Software engineer based in Berlin. I work mostly in C# and TypeScript and feel like fish in a [river](https://github.com/eternalgarden/rzeka) with event-driven architectures. I also like writing developer tooling and code that writes code. Very happy in Linux-native workflows, Bash is so neat.
 
-Professional 🐛 smasher (but not like for real, I love bugs, bumble bees,
-dung beetle are my fav, I used to love watching ants cutting and carrying
-sugar cubes I gave them am I oversharing.
--->
-<!--
-**mariaheine/mariaheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently open to backend, systems, and developer-tools work - reach me at heine.maria@protonmail.com.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+💦 **[rzeka](https://github.com/eternalgarden/rzeka)** - A reactive event bus for C# that tracks causality. Published on NuGet, bettle-tested and shipped through Sanctuary. Built on Rx.NET, with a browser-based debugger called Eris that lets you watch causal chains live as your application runs.
+
+🪽 **[sanctuary](https://github.com/eternalgarden/sanctuary)** - A 3D journaling application inspired by the method of loci. Originally shipped on Unity ([itch.io](https://eternalgarden.itch.io/sanctuary)), currently being ported to Godot as a FOSS project. Notes are stored locally in a git repository so you own your data.
