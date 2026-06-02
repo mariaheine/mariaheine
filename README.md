@@ -9,7 +9,7 @@ db    db  db                     dP'                            dP'   d'
                  .888888888888b.         `Yb...dP    `Yb...dP                          
                                            `"""'       `"""'                           
 ```
-## Hi, I'm Maria, I like weird  📜✨👋
+## Hi, I'm Maria  📜✨👋
 
 Software engineer based in Berlin. I work mostly in C# and TypeScript and feel like a fish in a [river](https://github.com/eternalgarden/rzeka) with event-driven architectures. I also like writing developer tooling and code that writes code. Very happy in Linux-native workflows.
 
